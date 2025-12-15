@@ -1,11 +1,6 @@
 #include<bits/stdc++.h>
 typedef long long ll;
 #define endl '\n'
-#define INF 1000000000
-const double PI=3.141592653589793238460;
-#define  M 1000000007
-const int N=1e5+10;
-long long int fact[N];
 using namespace std;
 
 long long func(int n,vector<int>&h,vector<long long>&dp)
@@ -35,4 +30,5 @@ int main()
     
  
   
+
 }
